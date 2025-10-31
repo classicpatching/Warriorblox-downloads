@@ -1,6 +1,6 @@
 # Warriorblox-downloads
 Get Warriorblox For Your Device
-
+experience 2014-2015 nostalgia safely
 # Warriorblox is available for
 - [ ] 📱 IOS
 - [x] 📱 Android
@@ -26,6 +26,8 @@ if we find out you are going to be terminated
 21 days ban
 10. do not beg moderators,owners,contributors
 3 days ban
+
+if we believe you should not be associated with warriorblox we can terminate you.
 
 that's it have fun playing warriorblox
 
